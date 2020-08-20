@@ -1,0 +1,128 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
+    color:  #66BFBF;
+}
+
+p {
+    line-height: 2;
+}
+
+h2 {
+    font-family: 'Montaga', serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    padding-bottom: 10px;
+}
+
+h3 {
+    font-family: 'Montaga', serif;
+    color:  #11999E;
+}
+
+hr {
+    border: dotted grey 6px;
+    border-bottom-style: none;
+    width: 40px;
+    margin: 100px auto;
+}
+ 
+a {
+    color: #11999E;
+    margin: 10px 20px;
+    font-family: 'Montaga', serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: honeydew;
+}
+
+.first-p {
+    width: 30%;
+    margin: auto;
+}
+
+.top-h2 {
+    font-weight: normal;
+}
+
+.pro {
+    text-decoration-line: underline;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.top-container {
+    background-color: #Eaf6f6;
+    position: relative;
+    padding: 100px;
+}
+
+.middle-container {
+    padding: 100px 0;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
+
+.top-cloud {
+    position: absolute;
+     right: 300px;
+     top: 40px;
+ }
+ 
+ .bottom-cloud {
+     position: absolute;
+     left: 250px;
+     bottom: 400px;
+ }
+
+ .footer-link {
+     color:  #11999E;
+ }
+
+.dvlpr-img {
+    width: 20%;
+}
+
+.code-img {
+     width: 25%;
+     float: left;
+     margin-right: 30px;
+ }
+
+.chillies-img {
+     width: 23%;
+     float: right;
+     margin-left: 30px;
+ }
+
+.hot-wings {
+    color: #11999E;
+}
+
+.contact-me {
+    width: 50%;
+    margin: 30px auto 60px;
+}
+
+.copyright {
+    color: honeydew;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
